@@ -25,7 +25,6 @@ more effective and modern cpp isn't real 😔
 ![](https://github-readme-stats.shion.dev/api?username=r1gor-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=r1gor-dev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=r1gor-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-<a href="http://www.github.com/r1gor-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r1gor-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
 [![](https://komarev.com/ghpvc/?username=r1gor-dev&icon=0&color=0)](https://visitcount.itsvg.in)
