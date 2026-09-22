@@ -4,14 +4,10 @@ Hi 👋 My name is Igor.
 olololollooooooooooooooo
 ----------------
 
-more effective and modern cpp isn't real 😔
-
 * 🌍  I'm based in ru
 * 🧠  I'm learning a lot of compscie
 * ⚡  я могу спать
-
-# 💫 About Me:
-I am currently studying at MTUСI.<br>I am learning C++ and machine learning.
+* I am currently studying at MTUСI.<br>I am learning C++ and machine learning.
 
 more effective and modern cpp isn't real 😔
 
